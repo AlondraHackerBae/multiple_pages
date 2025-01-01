@@ -16,8 +16,12 @@ p {
     font-size: 20px;
     text-align: center;
     justify-content: space-between;
+   
     
 
+}
+a { 
+     margin: 0 10px;
 }
 a:visited {
     color: green;
